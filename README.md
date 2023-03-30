@@ -1,4 +1,4 @@
-# DeleteRowsFromDependenceTables
+# DeleteRowsFromDependenceTablesWithLog
 Delete Rows From Dependence Tables By ID Parrent Table with Log Table, which will store all deleted rows.
 
    Problem:
